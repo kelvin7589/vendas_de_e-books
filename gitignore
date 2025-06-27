@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Uploads de arquivos 
+uploads/
+
+# Arquivo de dados dinâmicos 
+dados.json
+
+# Arquivos de sistema / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Pastas de build 
+dist/
+build/
